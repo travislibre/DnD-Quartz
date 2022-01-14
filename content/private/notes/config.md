@@ -46,4 +46,4 @@ For example, the structure of the home page can be edited through `/layouts/inde
 
 More info about partials on [Hugo's website.](https://gohugo.io/templates/partials/)
 
-Still having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
+Still having problems? Checkout our [FAQ and Troubleshooting guide](troubleshooting.md).
