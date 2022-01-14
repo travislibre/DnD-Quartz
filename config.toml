@@ -1,4 +1,4 @@
-baseURL = "https://travislibre.github.io/Dnd-Quartz/"
+baseURL = "https://travislibre.github.io/DnD-Quartz/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
