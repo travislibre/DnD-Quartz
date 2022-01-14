@@ -1,8 +1,7 @@
 ---
-title: "Example Title"
-tags:
-- example-tag
+title: "Landmasses"
 ---
+
 - Northern Continent
 	- Bruma 
 - Western Continent

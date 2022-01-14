@@ -1,8 +1,7 @@
 ---
-title: "Example Title"
-tags:
-- example-tag
+title: "Hook Words"
 ---
+
 - Sea of souls
 - God of the hunt
 - Great devourer

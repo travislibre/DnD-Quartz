@@ -1,9 +1,8 @@
 ---
-title: "Example Title"
-tags:
-- example-tag
+title: "Quick Notes"
 ---
-[[Magical Saturation]]
+
+[Magical Saturation](Magical%20Saturation.md)
 -	The heroes are the only ones in the multiverse to have come from a non-magical plane
 -	Use permanent injury table, as well as climb onto bigger creature rules
 -	"My old mentor once told me that with great power,,,, comes typically an orb or a jewel or something to contain it, and if you lose that you're fucked." Needless to say I took that guys power orb and if he's so smart he should've seen that coming. his advice is probably worthless, much like this stupid orb, taking up valuable space on my mantle and ruining the fung shwai of the room. Take it, as a reminder to never let your guard down, or something, i dont know

@@ -1,8 +1,7 @@
 ---
-title: "Example Title"
-tags:
-- example-tag
+title: "The Predator"
 ---
+
 The Predator is a extraplanar eldritch horror, capable of swallowing entire universes whole into his "body"
 
 The entity was the original target for the summoning ritual, but the ritual wasn't powerful enough to reach the entity itself, and was only able to reach the plane right above it: Earth.

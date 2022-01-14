@@ -1,6 +1,5 @@
 ---
-title: "Example Title"
-tags:
-- example-tag
+title: "The Flock"
 ---
+
 A cult founded by rogue members of the Seekers Order

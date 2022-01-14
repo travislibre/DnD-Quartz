@@ -1,8 +1,7 @@
 ---
-title: "Example Title"
-tags:
-- example-tag
+title: "!Enchanted Weapons"
 ---
+
 ## Improving the Weapon
 To improve your weapon, you'll be given milestones you need to complete. Upon each milestone, you'll be given a choice between two upgrades.
 

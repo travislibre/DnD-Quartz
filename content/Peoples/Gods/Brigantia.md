@@ -1,8 +1,7 @@
 ---
-title: "Example Title"
-tags:
-- example-tag
+title: "Brigantia"
 ---
+
 **
 
 -   Brigantia, goddess of mankind, elves, and the twin moons

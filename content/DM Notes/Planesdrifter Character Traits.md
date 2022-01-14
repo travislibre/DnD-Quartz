@@ -1,8 +1,7 @@
 ---
-title: "Example Title"
-tags:
-- example-tag
+title: "Planesdrifter Character Traits"
 ---
+
 Give your character a reason they'd want to stay on earth in particular:
 - a mother or father
 - a bright future, something they were looking forward to
