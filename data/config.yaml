@@ -1,13 +1,8 @@
-name: Jacky Zhao
+name: Travis Libre
 enableToc: true
 enableLinkPreview: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  digital garden for D&D
 page_title:
-  "🪴 Quartz 3"
+  D&D"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
